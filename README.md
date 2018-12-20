@@ -1,2 +1,2 @@
-# vincintz.github.io
-Personal webpage
+# Personal website
+https://vincintz.github.io/
